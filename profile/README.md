@@ -15,6 +15,7 @@ All IP cores in this series are fully pipelined for maximize the performance, bu
 | Math Function | Repository |
 | -- | -- |
 | Add (a + b) | [HSF1-FPADD-PIPE](https://github.com/hasu-ic-club/hsf1-fpadd-pipe) |
+| Multiply  (a * b) | [HSF2-FPMUL-PIPE](https://github.com/hasu-ic-club/hsf2-fpmul-pipe) |
 
 ### HSAx Integer/Fixed-point Arithmetic Series
 This is a series of integer/fixed-point arithmetic library. All IP cores in this series are parameterizable and easy to integrate.
